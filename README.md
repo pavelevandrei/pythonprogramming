@@ -83,3 +83,4 @@ https://stepik.org/lesson/3378/step/1?discussion=576055&unit=961
 (Интересная задача о кэше "долгой" функции)
 
 ![GitHub Logo](/Снимок3.png)
+Format: ![Alt Text](url)
