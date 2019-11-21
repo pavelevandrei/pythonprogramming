@@ -83,3 +83,5 @@ https://stepik.org/lesson/3378/step/1?discussion=576055&unit=961
 (Интересная задача о кэше "долгой" функции)
 
 fig.tight_layout()
+
+https://jakevdp.github.io/blog/2012/10/07/xkcd-style-plots-in-matplotlib/
