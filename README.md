@@ -1,4 +1,8 @@
 # pythonprogramming
+
+Ссылка на сертификат
+https://stepik.org/certificate/cb111e14df0f2afe79cd04cde8873d16a32a2112.pdf
+
 Теория и задачи к курсу "Программирование на Python"
 
 https://stepik.org/course/67
